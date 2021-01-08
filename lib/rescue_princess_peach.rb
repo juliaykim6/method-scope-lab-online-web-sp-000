@@ -7,4 +7,3 @@ end
 
 rescue_princess_peach
 puts status
-ruby lib/rescue_princess_peach.rb
